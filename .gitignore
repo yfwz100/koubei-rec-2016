@@ -4,3 +4,6 @@
 
 # Ignore potential binary files.
 .zip
+
+# Ingore submitted files.
+submit/
