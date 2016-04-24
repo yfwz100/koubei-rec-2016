@@ -1,0 +1,6 @@
+# Ignore data set from alibaba.
+# Please download them according to README.md .
+ijcai2016_taobao
+ijcai2016_koubei_train
+ijcai2016_koubei_test
+ijcai2016_merchant_info

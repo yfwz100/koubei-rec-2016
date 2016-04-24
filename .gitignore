@@ -1,0 +1,6 @@
+# Ignore python caches.
+*.pyc
+.ipynb_checkpoints
+
+# Ignore potential binary files.
+.zip
