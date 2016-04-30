@@ -4,3 +4,6 @@ ijcai2016_taobao
 ijcai2016_koubei_train
 ijcai2016_koubei_test
 ijcai2016_merchant_info
+
+# Ignore the generated csv files.
+*.csv
