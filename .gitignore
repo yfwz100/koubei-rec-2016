@@ -6,4 +6,4 @@
 *.zip
 
 # Ingore submitted files.
-submit/
+submit/*.csv
